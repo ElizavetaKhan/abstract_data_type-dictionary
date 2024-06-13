@@ -1,0 +1,3 @@
+/Users/elizavetahan/CLionProjects/6_lab/cmake-build-debug/CMakeFiles/6_lab.dir
+/Users/elizavetahan/CLionProjects/6_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elizavetahan/CLionProjects/6_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
